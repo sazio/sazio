@@ -8,3 +8,5 @@
 - 📫 How to reach me: simone.azeglio@edu.unito.it
 - 😄 Pronouns: he/him
 
+[![Sazio's github stats](https://github-readme-stats.vercel.app/api?username=sazio&count_private=true&show_icons=true&theme=graywhite&&hide=issues)](https://github.com/sazio) 
+
