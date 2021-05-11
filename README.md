@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on RealTime ML, SciML, NLP, Computational Neuroscience
+- 🔭 I’m currently working on RealTime ML, SciML, Data-Driven Dynamical Systems, NLP, Computational Neuroscience
 - 🌱 I’m currently learning Geometric Deep Learning
 - 👯 I’m looking to collaborate on principled Deep Learning techniques
 - 🤔 I’m looking for help with SciML (mainly PINNs) for Ocean models 
