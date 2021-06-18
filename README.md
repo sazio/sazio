@@ -14,6 +14,9 @@
 </a>
 <a href="mailto:simone.azeglio@edu.unito.it">
   <img align="left" alt="kahanikaar's email" width="30px" src="https://img.icons8.com/color/48/000000/mailbox-closed-flag-down--v2.png"/>
+  
+  
+  
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sazio&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sazio&layout=compact&langs_count=8&count_private=true&theme=radical"/>
 
