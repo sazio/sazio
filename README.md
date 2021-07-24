@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm currently a Summer Student at CERN 🌍 working on the Toolkit for Multivariate Data Analysis with ROOT 
 - 🔭 I’m currently working on RealTime ML, SciML, Data-Driven Dynamical Systems, NLP, Computational Neuroscience
-- 🌱 I’m currently learning Geometric Deep Learning
+- 🌱 I’m currently learning Geometric Deep Learning / Neurogeometry
 - 👯 I’m looking to collaborate on Deep Learning Foundations 
 - 🤔 I’m looking for help with SciML (mainly PINNs) for Ocean models 
 - 💬 Ask me about MLJC
