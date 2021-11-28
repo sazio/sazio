@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm currently a Summer Student at CERN 🌍 working on the Toolkit for Multivariate Data Analysis with ROOT 
+- 👨‍💻 I'm currently a Research Assistant at the Hearing Institute (part of Institut Pasteur) in Paris, France 
 - 🔭 I’m currently working on RealTime ML, SciML, Data-Driven Dynamical Systems, BCIs, Computational Neuroscience
 - 🌱 I’m currently learning Geometric Deep Learning / Neurogeometry
 - 👯 I’m looking to collaborate on Representation Learning / Learning from First Principles / Deep Learning Foundations 
+- Previously at CERN, uOttawa, UniTo
 - 💬 Ask me about MLJC
 - 📫 How to reach me: simone.azeglio@edu.unito.it
 - 😄 Pronouns: he/him
