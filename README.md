@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm currently a Research Assistant at the Hearing Institute (part of Institut Pasteur) in Paris, France 
+- 👨‍💻 I'm currently a Research Engineer at the Hearing Institute (part of Institut Pasteur) in Paris, France 
 - 🔭 I’m currently working on Computational Neuroscience, RealTime ML, SciML, Data-Driven Dynamical Systems, BCIs
 - 🌱 I’m currently learning Geometric Deep Learning / Neurogeometry
 - 👯 I’m looking to collaborate on Representation Learning / Learning from First Principles / Deep Learning Foundations 
