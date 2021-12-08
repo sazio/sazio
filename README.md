@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Representation Learning / Learning from First Principles / Deep Learning Foundations 
 - Previously at CERN, uOttawa, UniTo
 - 💬 Ask me about MLJC
-- 📫 How to reach me: simone.azeglio@edu.unito.it
+- 📫 How to reach me: simone.azeglio@gmail.com
 - 😄 Pronouns: he/him
   
 \
