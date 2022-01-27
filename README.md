@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm currently a Research Engineer at the Hearing Institute (part of Institut Pasteur) in Paris, France 
+- 👯 I’m looking for a PhD position in Representation Learning / Biological Inspiration & Inductive Bias / Equivariant Representations
 - 🔭 I’m currently working on Computational Neuroscience, RealTime ML, SciML, Data-Driven Dynamical Systems, BCIs
 - 🌱 I’m currently learning Geometric Deep Learning / Neurogeometry
-- 👯 I’m looking to collaborate on Representation Learning / Learning from First Principles / Deep Learning Foundations 
-- Previously at CERN, uOttawa, UniTo
+- ⬅️ Previously at CERN, uOttawa, UniTo
 - 💬 Ask me about MLJC
 - 📫 How to reach me: simone.azeglio@gmail.com
 - 😄 Pronouns: he/him
