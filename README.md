@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm currently a Research Engineer at the Hearing Institute (part of Institut Pasteur) in Paris, France 
-- 👯 I’m looking for a PhD position in Representation Learning / Biological Inspiration & Inductive Bias / Equivariant Representations
+- 👯 Soon joining the Vision Institute and Ecolé Normale Superiéure, in Paris, for my PhD at the interface of vision neuroscience and deep learning
 - 🔭 I’m currently working on Computational Neuroscience, RealTime ML, SciML, Data-Driven Dynamical Systems, BCIs
 - 🌱 I’m currently learning Geometric Deep Learning / Neurogeometry
 - ⬅️ Previously at CERN, uOttawa, UniTo
