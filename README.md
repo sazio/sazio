@@ -5,7 +5,7 @@
  - 🔭 I’m currently working at the interface of Vision, Deep Learning and Physics: I'd like to understand how our visual system factorizes invariances in visual objects.
 - 📆 Co-organizing a couple of workshops this year: [NeurReps](https://www.neurreps.org/) at NeurIPS 2022, and [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/) at Bernstein 2022
 - ⬅️ Previously at CERN, Institut Pasteur, uOttawa, UniTo
-- 💬 Contact me if we share some interests or if you are into open-source (please see [MLJC](https://www.mljc.it/)
+- 💬 Contact me if we share some interests or if you are into open-source (please see [MLJC](https://www.mljc.it/))
 - 📫 How to reach me: simone.azeglio@gmail.com
 - 😄 Pronouns: he/him
   
