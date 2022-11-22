@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm currently a Research Engineer at the Hearing Institute (part of Institut Pasteur) in Paris, France 
-- 👯 Soon joining the Vision Institute and Ecolé Normale Superiéure, in Paris, for my PhD at the interface of vision neuroscience and deep learning
-- 🔭 I’m currently working on Computational Neuroscience, Data-Driven Dynamical Systems, Deep Learning, Vision
+- 👨‍💻 I'm currently a PhD Candidate in Computational Neuroscience at Institut de la Vision (Sorbonne University) and Ecolé Normale Superiéure, in Paris. 
+- 
+ - 🔭 I’m currently working at the interface of Vision, Deep Learning and Physics: I'd like to understand how our visual system factorizes invariances in visual objects.
 - 📆 Co-organizing a couple of workshops this year: [NeurReps](https://www.neurreps.org/) at NeurIPS 2022, and [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/) at Bernstein 2022
-- ⬅️ Previously at CERN, uOttawa, UniTo
-- 💬 Ask me about MLJC
+- ⬅️ Previously at CERN, Institut Pasteur, uOttawa, UniTo
+- 💬 Contact me if we share some interests or if you are into open-source (please see [MLJC](https://www.mljc.it/)
 - 📫 How to reach me: simone.azeglio@gmail.com
 - 😄 Pronouns: he/him
   
