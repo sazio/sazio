@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm currently a PhD Candidate in Computational Neuroscience at Institut de la Vision (Sorbonne University) and Ecolé Normale Superiéure, in Paris. 
 - 🔭 I’m currently working at the interface of Vision, Deep Learning and Physics: I'd like to understand how our visual system factorizes invariances and equivariances out of objects, starting from the retina. 
-- 📆 Co-organizing a couple of workshops this year: [NeurReps](https://www.neurreps.org/) at NeurIPS 2022, and [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/) at Bernstein 2022
+- 📆 Co-organizing a couple of workshops this year: [NeurReps](https://www.neurreps.org/) at NeurIPS 2022, and the 2nd Workshop on [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/neural-representations/) at Bernstein 2023
 - ⬅️ Previously at CERN, Institut Pasteur, uOttawa, UniTo
 - 💬 Contact me if we share some interests or if you are into open-source (please see [MLJC](https://www.mljc.it/))
 - 📫 How to reach me: simone.azeglio@gmail.com
