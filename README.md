@@ -6,7 +6,6 @@
 - ⬅️ Previously at CERN, Institut Pasteur, uOttawa, UniTo
 - 💬 Contact me if we share some interests or if you are into open-source (please see [MLJC](https://www.mljc.it/))
 - 📫 How to reach me: simone.azeglio@gmail.com
-- 😄 Pronouns: he/him
   
 \
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sazio&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/> 
