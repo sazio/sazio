@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm currently a PhD Candidate in Computational Neuroscience at Institut de la Vision (Sorbonne University) and Ecolé Normale Superiéure, in Paris. 
+- 👨‍💻 I'm currently a PhD Candidate in Computational Neuroscience at Institut de la Vision (Sorbonne University) and Ecolé Normale Superiéure, in Paris.
+- 👨‍💻 At the moment I'm visiting Flatiron CCN for the summer 
 - 🔭 I’m currently working at the interface of Vision, Deep Learning and Physics: I'd like to understand how our visual system factorizes invariances and equivariances out of objects, starting from the retina. 
 - 📆 Co-organizing a couple of workshops this year: [NeurReps](https://www.neurreps.org/) at NeurIPS 2023, and the 2nd Workshop on [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/neural-representations/) at Bernstein 2023
 - ⬅️ Previously at CERN, Institut Pasteur, uOttawa, UniTo
