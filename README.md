@@ -5,7 +5,7 @@
 
 I'm a computational neuroscientist working between machine learning and vision neuroscience, currently a Guest Research Associate in [Yukiyasu Kamitani's lab](https://kamitani-lab.ist.i.kyoto-u.ac.jp/) at Kyoto University. I did my PhD at the Vision Institute (Sorbonne) and École Normale Supérieure in Paris.
 
-[Website](https://sazio.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ld9Bs6oAAAAJ&hl=en) · [Bluesky](https://bsky.app/profile/s-azeglio.bsky.social) · [X](https://x.com/simoneazeglio) · [LinkedIn](https://www.linkedin.com/in/simoneazeglio) · simone . azeglio at gmail . com
+[Website](https://sazio.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ld9Bs6oAAAAJ&hl=en) · [X](https://x.com/simoneazeglio) · [Bluesky](https://bsky.app/profile/s-azeglio.bsky.social) · [LinkedIn](https://www.linkedin.com/in/simoneazeglio) · simone . azeglio at gmail . com
 
 ### Research
 
