@@ -1,18 +1,49 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Simone Azeglio. The geometry of visual information. An animated mosaic of retinal receptive fields tracks a dark object, with a spike raster underneath." src="assets/banner-light.svg" width="100%">
+</picture>
 
-- 👨‍💻 I'm currently a PhD Candidate in Computational Neuroscience at Institut de la Vision (Sorbonne University) and École Normale Supérieure, in Paris.
-- 🔭 I'm working at the interface of Vision, Deep Learning and Physics: investigating how our visual system processes higher-order spatiotemporal correlations and leverages geometric principles like scale and velocity equivariance.
-- 📝 Recent work: [Higher-Order Convolution for Neural Data](https://arxiv.org/abs/2505.07620), [Higher-Order Convolution for Image Classification](https://arxiv.org/abs/2412.06740), [Score-Based Riemannian Metrics](https://arxiv.org/abs/2505.11128), and [Neural Information Decomposition](https://arxiv.org/abs/2505.11309)
-- 📆 Co-organizing workshops: [NeurReps](https://www.neurreps.org/) at NeurIPS 2022-2023-2024, ["Sharpening Our Sight"](https://sites.google.com/view/cosyne2024-sos/home) at Cosyne 2024, and ["Symmetry and Invariance in Neural Representations"](https://sazio.github.io/workshops/sinr/) at Bernstein 2022-2023. 
-- ⬅️ Previously at Flatiron Institute, Institut Pasteur, CERN, uOttawa, UniTo
-- 💬 Contact me if we share interests or if you're into open-source research (see [MLJC](https://www.mljc.it/))
-- 📫 How to reach me: simone . azeglio at gmail . com
-  
-\
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sazio&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sazio&layout=compact&langs_count=8&count_private=true&theme=radical"/>
+I'm a computational neuroscientist working between machine learning and vision neuroscience, currently a Guest Research Associate in [Yukiyasu Kamitani's lab](https://kamitani-lab.ist.i.kyoto-u.ac.jp/) at Kyoto University. I did my PhD at the Vision Institute (Sorbonne) and École Normale Supérieure in Paris.
 
-\
-<a href="https://www.linkedin.com/in/simoneazeglio/">
-  <img align="left" alt="kahanikaar's LinkdeIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/>
-</a>
+[Website](https://sazio.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ld9Bs6oAAAAJ&hl=en) · [Bluesky](https://bsky.app/profile/s-azeglio.bsky.social) · [X](https://x.com/simoneazeglio) · [LinkedIn](https://www.linkedin.com/in/simoneazeglio) · simone . azeglio at gmail . com
+
+### Research
+
+My work has two sides: building the structure of natural scenes into models of visual neurons, and measuring what information the resulting codes carry.
+
+| | Question | Work |
+| --- | --- | --- |
+| **Statistics** | What do neighbouring pixels say together? | [Higher-order convolution](https://arxiv.org/abs/2412.06740) (NeurIPS 2025) · [and in the retina](https://arxiv.org/abs/2505.07620) |
+| **Symmetry** | How should a code change when the world does? | Scale-equivariant retinal codes support prey hunting ([CoSyNe 2026](https://x.com/simoneazeglio/status/2032039903945449961)) |
+| **Information** | Which bits, about what? | [Multi-scale information geometry](https://arxiv.org/abs/2605.06304) (**NeurIPS 2026 Oral**) · [Stimulus-specific information](https://arxiv.org/abs/2505.11309) (NeurIPS 2025 Spotlight) · [Score-based Riemannian metric](https://arxiv.org/abs/2505.11128) |
+
+### Recently
+
+<!-- NEWS:START -->
+- **Sep 2026** · [NeurReps 2024 and 2025 proceedings published as PMLR volume 282, which I co-edited](https://proceedings.mlr.press/v282/)
+- **Jul 2026** · Defended my PhD thesis at the Vision Institute (Sorbonne) and ENS Paris
+- **Mar 2026** · [Co-organizing a workshop on modern efficient coding at CoSyNe 2026](https://x.com/simoneazeglio/status/2032906430097883334)
+- **Mar 2026** · [CoSyNe poster 1-146: mouse OFF-α ganglion cells are scale equivariant](https://x.com/simoneazeglio/status/2032039903945449961)
+- **Dec 2025** · [NeurReps 2025, our 4th edition, is a wrap](https://x.com/simoneazeglio/status/1998808925509157012)
+<!-- NEWS:END -->
+
+<sub>Synced daily from [my website](https://sazio.github.io/#news).</sub>
+
+### Community
+
+Co-organizer of [NeurReps](https://www.neurreps.org/) at NeurIPS (2022–2025), [ECMA](https://sites.google.com/view/ecma-cosyne/home) at CoSyNe 2026, [Sharpening Our Sight](https://sites.google.com/view/cosyne2024-sos/home) at CoSyNe 2024 and [SINR](https://sazio.github.io/workshops/sinr/) at Bernstein (2022–2023). Co-founder of the [Machine Learning Journal Club](https://www.mljc.it/). Before the PhD: Flatiron Institute, Institut Pasteur, CERN and the University of Ottawa.
+
+Always glad to talk about collaborations, and to mentor students whose interests line up with these topics.
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=sazio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&bg_color=0d0e12&title_color=9d86ff&text_color=b4b5bb&icon_color=4cc38a">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sazio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&bg_color=f3f2ee&title_color=5b3fd1&text_color=4a4d55&icon_color=1d8a59">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sazio&layout=compact&langs_count=8&count_private=true&hide_border=true&disable_animations=true&bg_color=0d0e12&title_color=9d86ff&text_color=b4b5bb">
+  <img height="170" alt="Most used languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sazio&layout=compact&langs_count=8&count_private=true&hide_border=true&disable_animations=true&bg_color=f3f2ee&title_color=5b3fd1&text_color=4a4d55">
+</picture>
+</p>
+
+<sub>The banner is generated by [`scripts/make_banner.py`](scripts/make_banner.py): OFF and ON ganglion-cell mosaics with difference-of-Gaussians receptive fields, the same model as the header of my website.</sub>
