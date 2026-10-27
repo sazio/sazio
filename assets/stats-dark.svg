@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" width="1200" height="285" role="img" aria-label="GitHub activity: 6091 contributions since 2015, 106 repositories.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" width="1200" height="285" role="img" aria-label="GitHub activity: 6111 contributions since 2015, 106 repositories.">
 <rect width="1200" height="285" rx="14" fill="#0d0e12"/>
 <text x="48" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#7c7f88">GITHUB · ALL REPOSITORIES, PRIVATE INCLUDED</text>
-<text x="46" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="50" letter-spacing="-1" fill="#ecebe6">6,091</text>
+<text x="46" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="50" letter-spacing="-1" fill="#ecebe6">6,111</text>
 <text x="48" y="132" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="17" fill="#b4b5bb">contributions since 2015</text>
-<text x="300" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#ecebe6">2,356</text>
+<text x="300" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#ecebe6">2,376</text>
 <text x="300" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#7c7f88">in 2026</text>
 <text x="412" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#ecebe6">106</text>
 <text x="412" y="95" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#7c7f88">repositories</text>
@@ -16,19 +16,19 @@
 <text x="524" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#ecebe6">5</text>
 <text x="524" y="147" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#7c7f88">contributed to</text>
 <text x="700" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#7c7f88">LANGUAGES · BYTES OF CODE</text>
-<rect x="700.0" y="70" width="320.6" height="10" fill="#9d86ff" fill-opacity="1"/>
-<rect x="1020.6" y="70" width="75.2" height="10" fill="#4cc38a" fill-opacity="1"/>
+<rect x="700.0" y="70" width="320.7" height="10" fill="#9d86ff" fill-opacity="1"/>
+<rect x="1020.7" y="70" width="75.1" height="10" fill="#4cc38a" fill-opacity="1"/>
 <rect x="1095.8" y="70" width="22.4" height="10" fill="#9d86ff" fill-opacity="0.55"/>
 <rect x="1118.2" y="70" width="10.0" height="10" fill="#4cc38a" fill-opacity="0.55"/>
 <rect x="1128.2" y="70" width="8.2" height="10" fill="#b4b5bb" fill-opacity="0.8"/>
 <rect x="1136.4" y="70" width="3.7" height="10" fill="#7c7f88" fill-opacity="0.7"/>
 <rect x="1140.1" y="70" width="11.9" height="10" fill="#7c7f88" fill-opacity="0.35"/>
 <circle cx="705" cy="104" r="4.5" fill="#9d86ff" fill-opacity="1"/>
-<text x="716" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">Python<tspan fill="#7c7f88"> 70.9%</tspan></text>
+<text x="716" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">Python<tspan fill="#7c7f88"> 71.0%</tspan></text>
 <circle cx="935" cy="104" r="4.5" fill="#4cc38a" fill-opacity="1"/>
 <text x="946" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">TeX<tspan fill="#7c7f88"> 16.6%</tspan></text>
 <circle cx="705" cy="126" r="4.5" fill="#9d86ff" fill-opacity="0.55"/>
-<text x="716" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">HTML<tspan fill="#7c7f88"> 5.0%</tspan></text>
+<text x="716" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">HTML<tspan fill="#7c7f88"> 4.9%</tspan></text>
 <circle cx="935" cy="126" r="4.5" fill="#4cc38a" fill-opacity="0.55"/>
 <text x="946" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">MATLAB<tspan fill="#7c7f88"> 2.2%</tspan></text>
 <circle cx="705" cy="148" r="4.5" fill="#b4b5bb" fill-opacity="0.8"/>
@@ -38,7 +38,7 @@
 <circle cx="705" cy="170" r="4.5" fill="#7c7f88" fill-opacity="0.35"/>
 <text x="716" y="174" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b4b5bb">Other<tspan fill="#7c7f88"> 2.6%</tspan></text>
 <text x="700" y="192" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="13" fill="#7c7f88">Jupyter notebooks in 56 repositories, left out of the bar.</text>
-<text x="48" y="203" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#7c7f88">CONTRIBUTIONS PER WEEK · LAST 12 MONTHS (2,397)</text>
+<text x="48" y="203" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#7c7f88">CONTRIBUTIONS PER WEEK · LAST 12 MONTHS (2,417)</text>
 <line x1="48" x2="1152" y1="263" y2="263" stroke="#282a31"/>
 <rect x="49.0" y="261.5" width="18.8" height="1.5" fill="#9d86ff" fill-opacity="0.85"/>
 <rect x="69.8" y="261.5" width="18.8" height="1.5" fill="#9d86ff" fill-opacity="0.85"/>
@@ -76,5 +76,5 @@
 <rect x="1069.7" y="243.4" width="18.8" height="19.6" fill="#9d86ff" fill-opacity="0.85"/>
 <rect x="1090.5" y="220.9" width="18.8" height="42.1" fill="#9d86ff" fill-opacity="0.85"/>
 <rect x="1111.3" y="217.0" width="18.8" height="46.0" fill="#9d86ff" fill-opacity="0.85"/>
-<rect x="1132.2" y="254.5" width="18.8" height="8.5" fill="#9d86ff" fill-opacity="0.85"/>
+<rect x="1132.2" y="252.5" width="18.8" height="10.5" fill="#9d86ff" fill-opacity="0.85"/>
 </svg>
