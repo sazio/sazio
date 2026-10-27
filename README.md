@@ -31,7 +31,7 @@ My work has two sides: building the structure of natural scenes into models of v
 
 ### Community
 
-Co-organizer of [NeurReps](https://www.neurreps.org/) at NeurIPS (2022–2025), [ECMA](https://sites.google.com/view/ecma-cosyne/home) at CoSyNe 2026, [Sharpening Our Sight](https://sites.google.com/view/cosyne2024-sos/home) at CoSyNe 2024 and [SINR](https://sazio.github.io/workshops/sinr/) at Bernstein (2022–2023). Co-founder of the [Machine Learning Journal Club](https://www.mljc.it/). Previously: Flatiron Institute, Institut Pasteur, CERN and the University of Ottawa.
+Co-organizer of [NeurReps](https://www.neurreps.org/) at NeurIPS (2022–2025), [ECMA](https://sites.google.com/view/ecma-cosyne/home) at CoSyNe 2026, [Sharpening Our Sight](https://sites.google.com/view/cosyne2024-sos/home) at CoSyNe 2024 and [SINR](https://sazio.github.io/workshops/sinr/) at Bernstein (2022–2023). Co-founder of the [Machine Learning Journal Club](https://www.mljc.it/). Previously: Institut de la Vision, Sorbonne Université, École Normale Supérieure, Flatiron Institute, Institut Pasteur, CERN and the University of Ottawa.
 
 Always glad to talk about collaborations, and to mentor students whose interests line up with these topics.
 
