@@ -20,11 +20,11 @@ My work has two sides: building the structure of natural scenes into models of v
 ### Recently
 
 <!-- NEWS:START -->
+- **Oct 2026** · [Our multi-scale information geometry paper is an Oral at NeurIPS 2026. I'll be presenting it in Sydney, see you there!](https://arxiv.org/abs/2605.06304)
 - **Sep 2026** · [NeurReps 2024 and 2025 proceedings published as PMLR volume 282, which I co-edited](https://proceedings.mlr.press/v282/)
 - **Jul 2026** · Defended my PhD thesis at the Vision Institute (Sorbonne) and ENS Paris
 - **Mar 2026** · [Co-organizing a workshop on modern efficient coding at CoSyNe 2026](https://x.com/simoneazeglio/status/2032906430097883334)
 - **Mar 2026** · [CoSyNe poster 1-146: mouse OFF-α ganglion cells are scale equivariant](https://x.com/simoneazeglio/status/2032039903945449961)
-- **Dec 2025** · [NeurReps 2025, our 4th edition, is a wrap](https://x.com/simoneazeglio/status/1998808925509157012)
 <!-- NEWS:END -->
 
 <sub>Synced daily from [my website](https://sazio.github.io/#news).</sub>
